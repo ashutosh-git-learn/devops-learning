@@ -1,3 +1,7 @@
 how are you beta ??
 praticing again 
+<<<<<<< HEAD
 how you doing this ?
+=======
+just praticing again and agian 
+>>>>>>> 18ec04dc9cfbbe1b9d67cdcab125832505106aa6
